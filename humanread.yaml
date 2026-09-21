@@ -1,0 +1,69 @@
+version: 1
+title: 'Tao''s Story Garden: The Mark on the Boat'
+slug: translation-50-en-7ab612
+summary: A stage sword sinks beside a willow, but Ahe marks the boat instead of remembering
+  the shore. At the dock, his mark is still there. Where is the sword? Six illustrated
+  scenes about noticing what moves and what stays.
+cover_color: '#458f87'
+cover_asset: assets/6253268242ddb2d9d504adc53af1c3308ad668444a6e8a29d59933c6330554bc.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: en
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: e953748a881de97edbc56fa8c141b0e9380f7c1fdf16a1b8bc95c4e9a0d05e66
+  source_novel_id: 50
+  source_slug: novel-6c23df67-e73755
+  source_title: 小桃的成語小院：刻舟求劍
+  source_version_id: 90
+  target_language: en
+  translator: Humanread Founder
+chapters:
+- id: 821
+  title: Beside the Willow
+  position: 1
+  file: chapters/0001-821.html
+  format: sandbox-html-css
+  share_card: null
+- id: 822
+  title: After the Splash
+  position: 2
+  file: chapters/0002-822.html
+  format: sandbox-html-css
+  share_card: null
+- id: 823
+  title: A Reassuring Little Mark
+  position: 3
+  file: chapters/0003-823.html
+  format: sandbox-html-css
+  share_card: null
+- id: 824
+  title: The Mark Takes a Ride
+  position: 4
+  file: chapters/0004-824.html
+  format: sandbox-html-css
+  share_card: null
+- id: 825
+  title: Nothing Below the Mark
+  position: 5
+  file: chapters/0005-825.html
+  format: sandbox-html-css
+  share_card: null
+- id: 826
+  title: A Different Way to Look
+  position: 6
+  file: chapters/0006-826.html
+  format: sandbox-html-css
+  share_card: null
